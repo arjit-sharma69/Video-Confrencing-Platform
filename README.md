@@ -1,9 +1,3 @@
-<div align="center">
-<img src="https://socialify.git.ci/ashavijit/Meetify/image?font=Raleway&forks=1&issues=1&language=1&name=1&owner=1&pattern=Charlie%20Brown&pulls=1&stargazers=1&theme=Dark" alt="Meetify" width="640" height="320" />
-</div>
-<p align="center">
-  <h1 align="center">Meetify Documentation</h1>
-</p>
 
 ## About The Project
 
